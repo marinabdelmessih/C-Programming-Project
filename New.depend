@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1648749707 source:d:\embedded\new\sipmledb.c
+	"SimpleDb.h"
+
+1648748350 d:\embedded\new\simpledb.h
+	<stdio.h>
+	<stdlib.h>
+	"Std_datatypes.h"
+
+1648687363 d:\embedded\new\std_datatypes.h
+
+1648751221 source:d:\embedded\new\main.c
+	"SimpleDb.h"
+
